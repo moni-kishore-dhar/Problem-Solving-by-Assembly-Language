@@ -1,0 +1,2 @@
+# Calculate the frequency of each character in a sentence
+It is an assembly language program that allows a user to enter a sentence and then display the frequency of each character in that given sentence.   

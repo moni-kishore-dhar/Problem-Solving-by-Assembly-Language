@@ -1,0 +1,2 @@
+# Some Basic Programs
+In these programs, I have fixed the inputs in the registers instead of taking the input from the emulator screen and also displayed the output in a register instead of displaying the output on the emulator screen.
